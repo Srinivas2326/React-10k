@@ -10,7 +10,7 @@ export const Media = () => {
         <div>
             <p>Media Files</p>
 
-            <ol>{studentData.map((element, index) => <><li key={index}><p>student name</p> {element.name}  class {element.class}</li></>
+            <ol>{studentData.map((element, index) =><li key={index}><p>student name</p> {element.name}  class {element.class}</li>
 
             )}
             </ol>

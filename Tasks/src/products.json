@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Laptop", "price": 55000, "description": "Powerful performance laptop", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfapnDEBg7qijQNEBJu171EGbZ0g03YTPaw&s" },
+  { "id": 2, "title": "Mobile Phone", "price": 30000, "description": "Latest smartphone", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1V6CrRrrl7WBHr1A59q54nV3C_Tat0fKqA&s" },
+  { "id": 3, "title": "Smart Watch", "price": 5000, "description": "Fitness & health tracking", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8jg4zEnrvZyBr35WpzUF0-Ewl2EOC0CGxQ&s" }
+]
