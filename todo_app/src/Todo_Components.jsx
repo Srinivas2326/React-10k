@@ -103,12 +103,6 @@ export class Todo extends Component{
                         </tr>
                     </thead>
                     <tbody>
-                            {/* <td>Balu</td>
-                            <td>@gmail</td>
-                            <td>
-                                <button>Edit</button>
-                                <button>Delete</button>
-                            </td> */}
                             {
                                 this.state.todoData.map((contact, index)=> <tr key={index}> 
                                     <td>{contact.name}</td>
